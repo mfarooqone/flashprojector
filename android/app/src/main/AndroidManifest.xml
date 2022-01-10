@@ -2,12 +2,12 @@
     package="com.chfarooq.flash_projector">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="flash_projector"
+        android:label="Flash Projector"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launcher_icon">
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-3940256099942544~3347511713"/>
+            android:value="ca-app-pub-6078952245362562~8775867664"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"

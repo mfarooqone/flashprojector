@@ -123,18 +123,18 @@ class _VideoPlayerScreenState extends State<VideoPlayerScreen> {
                             fit: BoxFit.fill,
                           ),
                         ),
-                        Padding(
-                          padding: EdgeInsets.only(bottom: 30.6.h),
-                          child: Container(
-                            height: 10.0.h,
-                            width: 10.0.w,
-                            color: Colors.grey,
-                            child: Image.asset(
-                              "assets/gif.gif",
-                              fit: BoxFit.fill,
-                            ),
-                          ),
-                        ),
+                        // Padding(
+                        //   padding: EdgeInsets.only(bottom: 30.6.h),
+                        //   child: Container(
+                        //     height: 10.0.h,
+                        //     width: 10.0.w,
+                        //     color: Colors.grey,
+                        //     child: Image.asset(
+                        //       "assets/gif.gif",
+                        //       fit: BoxFit.fill,
+                        //     ),
+                        //   ),
+                        // ),
                         Container(
                           height: 25.0.h,
                           width: 100.0.w,
