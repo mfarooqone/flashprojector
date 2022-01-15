@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mfarooqone.flashprojector">
+    package="com.mfarooqone.flashprojector1">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="Flash Projector"

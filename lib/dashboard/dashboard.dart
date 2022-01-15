@@ -43,7 +43,7 @@ class Dashboard extends StatelessWidget {
                     ),
                     InkWell(
                       onTap: () {
-                        ads.interstitialAd3?.show();
+                        // ads.interstitialAd3?.show();
                         Get.to(() => const VideoProject());
                       },
                       child: Container(
@@ -100,7 +100,7 @@ class Dashboard extends StatelessWidget {
                                     height: 0.5.h,
                                   ),
                                   Text(
-                                    "PROJECTOR SIMULATOR",
+                                    "THE PROJECTOR SIMULATOR",
                                     style: TextStyle(
                                       color: Colors.white,
                                       fontSize: 3.0.w,
@@ -119,7 +119,7 @@ class Dashboard extends StatelessWidget {
                     ),
                     InkWell(
                       onTap: () {
-                        ads.interstitialAd4?.show();
+                        // ads.interstitialAd4?.show();
                         Get.to(() => const VideoPlayerScreen2());
                       },
                       child: Container(
@@ -175,7 +175,7 @@ class Dashboard extends StatelessWidget {
                                     height: 0.5.h,
                                   ),
                                   Text(
-                                    "FEEL THE AMAZING PLAYER",
+                                    "AMAZING VIDEO PLAYER",
                                     style: TextStyle(
                                       color: Colors.white,
                                       fontSize: 3.0.w,
