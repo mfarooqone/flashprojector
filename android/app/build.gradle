@@ -50,7 +50,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "com.chfarooq.flash_projector"
+        applicationId "com.mfarooqone.flashprojector"
         minSdkVersion Math.max(flutter.minSdkVersion, 21)
         // minSdkVersion flutter.minSdkVersion
         targetSdkVersion flutter.targetSdkVersion
